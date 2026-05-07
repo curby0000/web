@@ -1,1 +1,1 @@
-web proect i2
+web project i2
